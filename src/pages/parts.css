@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    white-space: pre-wrap;
+}
+.component {
+    border: solid;
+    width: 90%;
+    height: 200px;
+    margin:0 auto;
+    overflow: hidden;
+    margin: 1em;
+}
+
+#left-text {
+    border: solid;
+    float: left;
+    width: 45%;
+    height: 80%;
+    margin: 1.5% 0% 2% 1%;
+    overflow: hidden;
+}
+
+#right-text {
+    border: solid;
+    float: right;
+    width: 45%;
+    margin: 2% 1% 2% 0%;
+}
