@@ -13,7 +13,7 @@ const Parts = (props: PartsProps) => {
             </div>
             <div id="right-text">
                 {title}
-                <hr />y
+                <hr />
                 <p>
              {content}
                 </p>
